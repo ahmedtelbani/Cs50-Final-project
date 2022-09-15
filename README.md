@@ -2,12 +2,8 @@
 #### Video Demo:  <URL HERE>
 #### Description:
 
-<br>
-
 ## About Project:
 **This is the final project for CS50 2022.**
-
-<br>
 
 **Assis Project:** is a web application makes your life easier.<br>
 The application contains a set of different tools that help you in your daily tasks in particular and thus your life in general.<br>
