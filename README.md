@@ -70,7 +70,7 @@ You can also permanently delete his account from the application, if he wants to
 
 User can see the date he joined this application, to help analyze his life, such as comparing his life after using the tools of this application and before, and how these tools affected his quality of life.
 
-## Define project files:
+## Define project files
 
 ### application.py :
 This contains the main server-side code of the application and the basic functions to work.
